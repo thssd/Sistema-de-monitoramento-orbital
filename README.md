@@ -1,9 +1,5 @@
 # 🛰️ Sistema de Monitoramento Ambiental via Satélite
 
-Console-based Java application for environmental monitoring of critical Brazilian biomes through simulated orbital satellites. Built with object-oriented design principles as part of the **Global Solution** challenge at FIAP.
-
----
-
 ## 📌 About
 
 The system simulates a satellite monitoring network capable of detecting environmental threats in Brazilian areas such as the Amazon Rainforest and Atlantic Forest. It processes orbital readings to identify flood risks and deforestation, manages environmental occurrences, and issues alerts to the appropriate authorities.
